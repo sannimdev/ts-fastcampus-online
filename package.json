@@ -1,0 +1,20 @@
+{
+  "name": "ts-fastcampus-online",
+  "version": "1.0.0",
+  "description": "자바스크립트로 작업할 때 코드를 확인할 때의 일입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sannimdev/ts-fastcampus-online.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sannimdev/ts-fastcampus-online/issues"
+  },
+  "homepage": "https://github.com/sannimdev/ts-fastcampus-online#readme"
+}
