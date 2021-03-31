@@ -6,7 +6,7 @@
         "module": "CommonJS",
         "rootDir": "src" /* 가장 최상단 소스 폴더*/,
         "outDir": "dist" /* 컴파일되는 폴더 */,
-        "target": "es5",
+        "target": "es6",
         "sourceMap": true /* 브라우저에서도 디버깅 툴을 이용하여 ts 파일을 확인할 수 있음 */,
         "removeComments": true /* 컴파일된 파일에서는 주석 제거 */,
         "noImplicitAny": true /*  함수의 파라미터에 type을 정의하지 않으면 암무적으로 any를 암시하는 것을 허용하는 옵션 */
