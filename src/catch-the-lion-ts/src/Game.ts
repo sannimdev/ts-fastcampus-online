@@ -1,6 +1,6 @@
-export class Game {}
+import { Board } from './Board';
 
-new Game();
-
-const version = 'v1';
-export default version;
+export class Game {
+    readonly board = new Board();
+    constructor() {}
+}
